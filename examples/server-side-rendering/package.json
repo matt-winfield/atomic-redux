@@ -11,7 +11,7 @@
     "test": ""
   },
   "dependencies": {
-    "next": "12.1.6",
+    "next": "14.2.15",
     "react": "~18.1.0",
     "react-dom": "~18.1.0",
     "react-redux": "~8.0.2",
